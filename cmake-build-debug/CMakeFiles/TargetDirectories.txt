@@ -1,0 +1,3 @@
+/home/comardom/CLionProjects/HENU_1_1_FinalAssignment/cmake-build-debug/CMakeFiles/HENU_1_1_FinalAssignment.dir
+/home/comardom/CLionProjects/HENU_1_1_FinalAssignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/comardom/CLionProjects/HENU_1_1_FinalAssignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
